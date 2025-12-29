@@ -1,0 +1,227 @@
+Level,Number,Name,all_issues
+90-3 - Level 2,02ST01,STAIR 1,Invalid Area Format;Redundant Room
+90-3 - Level 2,1382,SUB WAIT,Missing Data
+90-3 - Level 2,2006.1,SHAFT,Invalid Area Format;Redundant Room
+90-3 - Level 2,2110,QUIET / LACTATION,Missing Data
+90-3 - Level 2,2221,TEAM STATION,Missing Data
+90-3 - Level 2,2236,GENERAL OFFICE SUPPLY,Missing Data
+90-3 - Level 2,2270,TREATMENT MED,Missing Data
+90-3 - Level 2,2271,TREATMENT / POS,Missing Data
+90-3 - Level 2,2278,RESEARCH LAB,Missing Data
+90-3 - Level 2,2283,RESEARCH TEAM STATION,Missing Data
+90-3 - Level 2,2285,SUB WAIT,Missing Data
+90-3 - Level 2,2286,TEAM STATION,Missing Data
+90-3 - Level 2,2288,TEAM STATION,Missing Data
+90-3 - Level 2,2289,PRACT. COORD.,Missing Data
+90-3 - Level 2,2302,VITALS ALCOVE,Missing Data
+90-3 - Level 2,2304,IOS PT TLT,Missing Data
+90-3 - Level 2,2305,EXAM,Missing Data
+90-3 - Level 2,2306,EXAM,Missing Data
+90-3 - Level 2,2307,EXAM,Missing Data
+90-3 - Level 2,2308,EXAM,Missing Data
+90-3 - Level 2,2309,PT TLT,Missing Data
+90-3 - Level 2,2310,EXAM,Missing Data
+90-3 - Level 2,2311,EXAM,Missing Data
+90-3 - Level 2,2313,CLEAN SUPPLY,Missing Data
+90-3 - Level 2,2314,MEDS,Missing Data
+90-3 - Level 2,2327,MECH,Missing Data
+90-3 - Level 2,2332,NOURISH,Missing Data
+90-3 - Level 2,2334,NURSE STATION,Missing Data
+90-3 - Level 2,2336,NURSE STATION,Missing Data
+90-3 - Level 2,2339,SCHEDULERS,Missing Data
+90-3 - Level 2,C2288,CORRIDOR,Missing Data
+90-3 - Level 2,C2300,CORRIDOR,Missing Data
+90-3 - Level 2,C2329,CORRIDOR,Missing Data
+90-3 - Level 3,3104,WORKROOM,Missing Data
+90-3 - Level 3,3105,DICTATION,Missing Data
+90-3 - Level 3,3106,MED / CLEAN,Missing Data
+90-3 - Level 3,3107,TREATMENT,Missing Data
+90-3 - Level 3,3108,TREATMENT,Missing Data
+90-3 - Level 3,3110,SOILED HOLDING,Missing Data
+90-3 - Level 3,3117,CRASH CART,Missing Data
+90-3 - Level 3,3128,PA ROOM,Missing Data
+90-3 - Level 3,3130,IOL / PENT,Missing Data
+90-3 - Level 3,3143.2,MECH,Missing Data
+90-3 - Level 3,3160,SHELL SPACE,Missing Data
+90-3 - Level 3,3176,VIS FIELD,Missing Data
+90-3 - Level 3,3177,VIS FIELD,Missing Data
+90-3 - Level 3,3178,MULTI-PURPOSE OFFICE,Missing Data
+90-3 - Level 3,3180,SLIT LAMP OCT,Missing Data
+90-3 - Level 3,3181,FUNDUS OPTOS OCT,Missing Data
+90-3 -Level 1,1142,WHEELCHAIR,Invalid Area Format;Redundant Room
+90-3 -Level 1,1205,SHELL SPACE,Missing Data
+90-3 -Level 1,1207,SCRUB,Missing Data
+90-3 -Level 1,1210,STRETCHER,Missing Data
+90-3 -Level 1,1211,EVS,Missing Data
+90-3 -Level 1,1225,CRASH CART ALCOVE,Missing Data
+90-3 -Level 1,1386,CORRIDOR,Missing Data
+90-3 -Level 1,1516,FURNITURE STORAGE,Missing Data
+90-3 -Level 1,1701,WAITING,Missing Data
+90-3 -Level 1,1702,CHECK IN,Missing Data
+90-3 -Level 1,1703,PT TLT,Missing Data
+90-3 -Level 1,1704,WC STORAGE,Invalid Area Format;Missing Data;Redundant Room
+90-3 -Level 1,1705,PT TLT,Missing Data
+90-3 -Level 1,1706,STAFF TLT,Missing Data
+90-3 -Level 1,1707,PT TLT,Missing Data
+90-3 -Level 1,1708,P/R 8,Missing Data
+90-3 -Level 1,1709,P/R 7,Missing Data
+90-3 -Level 1,1710,P/R 6,Missing Data
+90-3 -Level 1,1713,P/R 3,Missing Data
+90-3 -Level 1,1714,P/R 2,Missing Data
+90-3 -Level 1,1715,P/R 1,Missing Data
+90-3 -Level 1,1716,NOURISH,Missing Data
+90-3 -Level 1,1718,MEDS,Missing Data
+90-3 -Level 1,1719,P/R 12,Missing Data
+90-3 -Level 1,1720,P/R 11,Missing Data
+90-3 -Level 1,1721,EVS,Missing Data
+90-3 -Level 1,1722,P/R 10,Missing Data
+90-3 -Level 1,1723,P/R 9,Missing Data
+90-3 -Level 1,1724,SOILED HOLDING,Missing Data
+90-3 -Level 1,1725,CONTROL,Invalid Area Format;Missing Data;Redundant Room
+90-3 -Level 1,1726,ALCOVE,Missing Data
+90-3 -Level 1,1727,CLEAN SUPPLY,Missing Data
+90-3 -Level 1,1728,EQUIPMENT STORAGE,Missing Data
+90-3 -Level 1,1729,ENDO 03,Missing Data
+90-3 -Level 1,1730,ENDO 02,Missing Data
+90-3 -Level 1,1731,ENDO 01,Missing Data
+90-3 -Level 1,1732,PT TLT,Missing Data
+90-3 -Level 1,1733,CORRIDOR,Invalid Area Format;Missing Data;Redundant Room
+90-3 -Level 1,C1228,SEMI-RESTRICTED CORRIDOR,Missing Data
+90-3 -Level 1,C1732,CORRIDOR,Missing Data
+90-3 -Level 1,C1733,CORRIDOR,Invalid Area Format;Missing Data;Redundant Room
+90-3 -Level 1,C1734,CORRIDOR,Missing Data
+Level 1,1142,WC,Duplicate Room Number;Duplicate Room+Level
+Level 1,1142,WHEELCHAIR,Duplicate Room Number;Duplicate Room+Level
+Level 1,1205,SHELL SPACE,Duplicate Room Number
+Level 1,1206,EQUIPMENT STORAGE,Duplicate Room Number
+Level 1,1207,SCRUB,Duplicate Room Number
+Level 1,1210,STRETCHER,Duplicate Room Number
+Level 1,1211,EVS,Duplicate Room Number
+Level 1,1704,WC STORAGE,Duplicate Room Number;Duplicate Room+Level
+Level 1,C1228,SEMI-RESTRICTED CORRIDOR,Duplicate Room Number
+Level 2,02ST01,STAIR 1,Duplicate Room Number;Duplicate Room+Level
+Level 2,2253,SUB WAITING,Duplicate Room Number
+Level 2,2273,INJECT,Duplicate Room Number
+Level 2,2274,MED,Duplicate Room Number
+Level 2,2278,RESEARCH LAB,Duplicate Room Number
+Level 2,2500,SHELL SPACE,Area Out of Range
+Level 2,C2288,CORRIDOR,Duplicate Room Number
+Level 3,3104,WORKROOM,Duplicate Room Number
+Level 3,3105,DICTATION,Duplicate Room Number
+Level 3,3106,MED / CLEAN,Duplicate Room Number
+Level 3,3107,TREATMENT,Duplicate Room Number
+Level 3,3108,TREATMENT,Duplicate Room Number
+Level 3,3110,SOILED HOLDING,Duplicate Room Number
+Level 3,3117,CRASH CART,Duplicate Room Number
+Level 3,3128,PA ROOM,Duplicate Room Number
+Level 3,3129,SOILED LINEN / TRASH,Duplicate Room Number
+Level 3,3130,IOL / PENT,Duplicate Room Number
+Level 3,3143.2,MECH,Duplicate Room Number
+Level 3,3160,SHELL SPACE,Area Out of Range
+Level 3,3176,VIS FIELD,Duplicate Room Number
+Level 3,3177,VIS FIELD,Duplicate Room Number
+Level 3,3178,MULTI-PURPOSE OFFICE,Duplicate Room Number
+Level 3,3180,SLIT LAMP OCT,Duplicate Room Number
+Level 3,3181,FUNDUS OPTOS OCT,Duplicate Room Number
+Level 4,4115,FACULTY,Duplicate Room Number;Duplicate Room+Level
+Level 4,4115,OFFICE,Duplicate Room Number;Duplicate Room+Level
+Level 4,4205,PANTRY,Duplicate Room Number;Duplicate Room+Level
+Level 4,4205,ROOF TERRACE,Duplicate Room Number;Duplicate Room+Level
+Not Placed,02VP06,OPEN TO ABOVE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,03ST01,STAIR 1,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1205,EQUIPMENT ALCOVE,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1206,EQUIPMENT STORAGE,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1207,ALCOVE,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1210,FUTURE SCRUB,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1211,O.R. SHELL,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1212,CRASH CART ALCOVE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1213,SCRUB,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1214,PROCEDURE ROOM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1214.1,SHAFT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1216.2,SHAFT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1217,CASE CARTS,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1308,VESTIBULE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1309,STORAGE,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1320,SOILED,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1325,W.C. STOR.,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1327,STORAGE?,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1330,ST TLT,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1344,MEDS,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1366,PREP CORRIDOR,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1384,ALCOVE,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1387,WC STORAGE,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1389,PT TLT,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1390,ALCOVE,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,1405,DETERGENT ROOM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1407,EVS CLEAN,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1410,SUPERVISOR OFFICE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1506C,PALLET JACK ALCOVE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,1507A,CHEM STOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2108B,AUTOREFRACTOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2111,QUIET,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2253,SUB WAIT,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2273,SHELL,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2274,OCT,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2278,BUSINESS OFFICE,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,2290,WHEELCHAIRS,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,3002,MECH,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3104,VIS FLDS,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3105,VIS FLDS,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3106,VIS FLDS,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3107,OPTOS,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3108,EQUIPMENT STORAGE,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3110,SUB WAIT,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3117,MECH,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3128,EXAM,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3129,MECH,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3130,TEAM STATION,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3131,EXAM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3132,EXAM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3133,EXAM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3134,TRIAGE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3135,TRIAGE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3136,EXAM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3137,CLEAN SUPPLY,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3138,MED / CLEAN,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3139,TREATMENT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3140,TREATMENT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3141,CLEAN WORK,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3142,SUB WAIT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3143,DICTATION (2),Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3143.2,MECH,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3144,PATIENT ED,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3145,PA ROOM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3146,PA ROOM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3147,IOL/PENT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3148,MECH,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3149,MECH,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3150,SUB WAIT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3152,SOILED LINEN/ TRASH,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3153,SOILED HOLDING,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3154,YAG LASER,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3155,ARGON LASER,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3156,EYE TRACE/PENT.,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3157,SUB WAIT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3158,MECH,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3159,EXAM,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3162,SUB WAIT,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3176,SLIT LAMP,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3177,OCT,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3178,OCT,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3180,FUNDUS,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3181,WRKRM,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,3200,SHELL SPACE,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,4303,OPEN COLLAB,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,4306,OPEN COLLAB,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,5100,BOILER ROOM,Invalid Area Format;Invalid Level Format;Missing Data;Not Placed
+Not Placed,C1228,CORRIDOR,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C2288,CORRIDOR,Duplicate Room Number;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3035,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3036,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3509,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3510,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3511,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3512,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,C3513,CORRIDOR,Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,x,FUTURE SCRUB,Duplicate Room Number;Duplicate Room+Level;Invalid Area Format;Invalid Level Format;Not Placed
+Not Placed,x,SHAFT,Duplicate Room Number;Duplicate Room+Level;Invalid Area Format;Invalid Level Format;Not Placed
