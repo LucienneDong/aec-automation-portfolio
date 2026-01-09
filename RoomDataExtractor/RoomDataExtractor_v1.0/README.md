@@ -21,15 +21,15 @@ Automated room schedule extraction and data pipeline for BIM/AEC portfolio
 ```mermaid
 flowchart LR
 
-	A\[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
+	A[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
 
-	B --> C\[room\_data\_raw\_dynamo\_export\_sample.csv]
+	B --> C[room_data_raw_dynamo_export_sample.csv]
 
-	C --> D(Python Data Validation \& Cleaning)
+	C --> D(Python Data Validation & Cleaning)
 
-	D --> E\[room\_schedule\_cleaned\_sample\_v2.0.csv]
+	D --> E[room_schedule_cleaned_sample_v2.0.csv]
 
-	D --> F\[room\_schedule\_issue\_repo\_sample\_v1.1.1.csv]
+	D --> F[room_schedule_issue_repo_sample_v1.1.1.csv]
 ```
 
 
