@@ -1,39 +1,31 @@
-\# Room Data Extractor v3.0
-
+# Room Data Extractor v3.0
 
 
 Automated room schedule extraction and data pipeline for BIM/AEC portfolio
 
 
-
 ---
 
 
+## Workflow Diagram
 
-\## Workflow Diagram
+### PNG Version
 
+![Room Data Extractor Workflow](./assets/workflow_diagram.png)
 
+### Mermaid Version
 
 ```mermaid
 
-<diagram here>
 flowchart LR
 
-	A\[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
-
-	B --> C\[room\_data\_raw\_dynamo\_export\_sample.csv]
-
+	A[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
+	B --> C[room_data_raw_dynamo_export_sample.csv]
 	C --> D(Python Data Validation \& Cleaning)
+	D --> E[room_schedule_cleaned_sample_v2.0.csv]
+	D --> F[room_schedule_issue_repo_sample_v1.1.1.csv]
+```
 
-	D --> E\[room\_schedule\_cleaned\_sample\_v2.0.csv]
-
-	D --> F\[room\_schedule\_issue\_repo\_sample\_v1.1.1.csv]
-
-
-
-### png Diagram:
-
-!\[Room Data Extractor Workflow](./assets/workflow\_diagram.png)
 
 
 ---
@@ -43,12 +35,10 @@ flowchart LR
 
 ### Includes: 
 
-
- - \*\*Dynamo extraction script\*\*
- - \*\*Python cleanup pipeline\*\*
-
-&nbsp;- \*\*Room validation \& issue reporting\*\*
- - Sample datasets for reproducibility
+ - **Dynamo extraction script**
+ - **Python cleanup pipeline**
+ - **Room validation \& issue reporting**
+ - **Sample datasets for reproducibility**
 
 
 ---
@@ -57,36 +47,33 @@ flowchart LR
 ## Sample Data
 
 
-\*\*Input Samples:\*\*
+**Input Samples:**
 
-./data/raw/room\_data\_raw\_dynamo\_export\_sample.csv
+./data/raw/room_data_raw_dynamo_export_sample.csv
 
-\*\*Clean Output:\*\*
+**Clean Output:**
 
-./data/clean/room\_data\_cleaned\_sample\_v2.0.csv
-
-
-
-\*\*Issue Report:\*\*
+./data/clean/room_data_cleaned_sample_v2.0.csv
 
 
 
-./scripts/room\_validation\_issue\_repo\_v1.1.1.py
+**Issue Report:**
+
+./scripts/room_validation_issue_repo_v1.1.1.py
 
 
 ---
 
 ## How to Run
 
-
 ```bash
 
-python ./scripts/room\_validation\_issue\_repo\_v1.1.1.py
+python ./scripts/room_validation_issue_repo_v1.1.1.py
 
+```
 ---
 
 ## Portfolio Notes
-
 
 Built by Lucienne (Huichao) Dong - Architectural Designer transitioning into AEC data and emerging tech workflows.
 
@@ -97,11 +84,8 @@ Built by Lucienne (Huichao) Dong - Architectural Designer transitioning into AEC
 ###### Updates on v3.0
 
 
-
 * add data validation including: missing data, invalid placeholder text (not placed, redundant room, unassigned, N/A), invalid area format
 * export data issue repo to user selected location for further review
-
-
 
 ###### Updates on v3.1
 
@@ -112,9 +96,6 @@ Built by Lucienne (Huichao) Dong - Architectural Designer transitioning into AEC
 * Invalid Level Format are flagging valid rows from the raw data, like""90-3 - Level 1"". Detection is not precise.
 * rooms having more than one kind of issue appears multiple times. data issue repo needs consolidation
 
-
-
- 
 
 **What are fixed in v3.1:**
 

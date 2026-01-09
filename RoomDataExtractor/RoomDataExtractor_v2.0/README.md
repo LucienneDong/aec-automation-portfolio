@@ -1,4 +1,4 @@
-\# Room Data Extractor v2.0
+# Room Data Extractor v2.0
 
 
 
@@ -10,13 +10,16 @@ Automated room schedule extraction and data pipeline for BIM/AEC portfolio
 
 
 
-\## Workflow Diagram
+## Workflow Diagram
 
+### PNG Version
 
+![Room Data Extractor Workflow](./assets/workflow_diagram.png)
+
+### Mermaid Version
 
 ```mermaid
 
-<diagram here>
 flowchart LR
 
 	A\[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
@@ -28,13 +31,7 @@ flowchart LR
 	D --> E\[room\_schedule\_cleaned\_sample\_v2.0.csv]
 
 	D --> F\[room\_schedule\_issue\_repo\_sample\_v1.1.1.csv]
-
-
-
-### png Diagram:
-
-!\[Room Data Extractor Workflow](./assets/workflow\_diagram.png)
-
+```
 
 
 ---
@@ -45,10 +42,9 @@ flowchart LR
 
 ### Includes: 
 
-
-&nbsp;- \*\*Dynamo extraction script\*\*
- - \*\*Python cleanup pipeline\*\*
- - Sample datasets for reproducibility
+ - **Dynamo extraction script**
+ - **Python cleanup pipeline**
+ - **Sample datasets for reproducibility**
 
 
 ---
@@ -57,13 +53,13 @@ flowchart LR
 ## Sample Data
 
 
-\*\*Input Samples:\*\*
+**Input Samples:**
 
-./data/raw/room\_data\_raw\_dynamo\_export\_sample.csv
+./data/raw/room_data_raw_dynamo_export_sample.csv
 
-\*\*Clean Output:\*\*
+**Clean Output:**
 
-./data/clean/room\_data\_cleaned\_sample\_v2.0.csv
+./data/clean/room_data_cleaned_sample_v2.0.csv
 
 ---
 
@@ -74,6 +70,7 @@ flowchart LR
 
 python ./scripts/room\_cleanup\_v1.1.py
 
+```
 ---
 
 ## Portfolio Notes
@@ -83,14 +80,9 @@ Built by Lucienne (Huichao) Dong - Architectural Designer transitioning into AEC
 
 
 
-
-
-
 v2.0 updated the cleanup for room data
 
-
-
-\# What is included in script room\_cleanup.py :
+## What is included in script room_cleanup.py :
 
 * Trim whitespaces: potential whitespaces before/after each item have been cleaned up
 * Normalized data for 'levels'. Ignore the prefix, and only extract the level number

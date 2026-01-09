@@ -46,6 +46,7 @@ This project includes:
 
 ##  Portfolio Folder Structure
 
+```
 RoomDataExtractor/
     ├── RoomDataExtractor_v1.0/
     │   ├── assets/
@@ -85,6 +86,7 @@ RoomDataExtractor/
         ├── scripts/
         │   └── room_schedule_cleanup_v3.0.py
         └── README.md
+```
 
 ---
 
@@ -98,26 +100,20 @@ RoomDataExtractor/
 
 ## Workflow Diagram
 
-```mermaid
-<diagram here>
-
-flowchart LR
-
-A[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
-
-B --> C[room_data_raw_dynamo_export_sample.csv]
-
-C --> D(Python Data Validation & Cleaning)
-
-D --> E[room schedule_cleaned_sample_v2.0.csv]
-
-D --> F[room_schedule_issue_repo_sample_v1.1.1.csv]
-
-
-### PNG Diagram:
+### PNG Version
 
 ![Room Data Extractor Workflow](./assets/workflow_diagram.png)
 
+### Mermaid Version
+
+```mermaid
+flowchart LR
+A[Revit Healthcare Project Model] --> B(Dynamo Extract Room Data)
+B --> C[room_data_raw_dynamo_export_sample.csv]
+C --> D(Python Data Validation & Cleaning)
+D --> E[room schedule_cleaned_sample_v2.0.csv]
+D --> F[room_schedule_issue_repo_sample_v1.1.1.csv]
+```
 
 ## Data Cleaning Rules Implemented
 
