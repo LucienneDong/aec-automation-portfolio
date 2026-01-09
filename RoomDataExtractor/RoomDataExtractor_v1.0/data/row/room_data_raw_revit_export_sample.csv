@@ -1,0 +1,780 @@
+﻿Level,Name,Area (SF),Room Category,Room Type Description
+90-3 - Level 2,VESTIBULE,87,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,807,SERV,Circulation / Corridor
+90-3 -Level 1,WATER PUMP,361,SERV,Water Treatment System
+90-3 -Level 1,EMERGENCY ELECTRICAL,153,SERV,Electrical Room
+90-3 -Level 1,MAIN ELECTRICAL,470,SERV,Electrical Room
+Not Placed,PROCEDURE ROOM,Not Placed,CLINICAL,Operating Room
+90-3 - Level 2,CORRIDOR,138,SERV,Circulation / Corridor
+90-3 -Level 1,STAFF ELEV,88,VERT,Elevator
+90-3 -Level 1,TELECOM,92,SERV,Information Services Closet
+90-3 -Level 1,ELECTRICAL,100,SERV,Electrical Room
+90-3 -Level 1,CORRIDOR,95,SERV,Circulation / Corridor
+90-3 -Level 1,STAIR 4,231,VERT,Stairs
+90-3 -Level 1,JAN.,45,NON-CLINICAL,Storage - Clean
+90-3 - Level 3,TEAM STATION,456,CLINICAL,Nurse Station
+90-3 -Level 1,O.R.,607,CLINICAL,Operating Room
+90-3 -Level 1,O.R.,607,CLINICAL,Operating Room
+90-3 - Level 2,PDT LASER,128,NON-CLINICAL,Office
+90-3 - Level 2,CORRIDOR,440,SERV,Circulation / Corridor
+90-3 - Level 2,MEP SHAFT,105,VERT,"Shaft, Duct"
+90-3 - Level 2,CORRIDOR,840,SERV,Circulation / Corridor
+90-3 -Level 1,STAIR 3,272,VERT,Stairs
+90-3 -Level 1,MEN'S TOILET,287,SERV,Public Restroom
+90-3 -Level 1,WOMEN'S TOILET,288,SERV,Public Restroom
+90-3 -Level 1,JAN.,47,NON-CLINICAL,Storage - Clean
+90-3 -Level 1,ELECTRICAL,103,SERV,Electrical Room
+90-3 -Level 1,STAFF LOUNGE,906,NON-CLINICAL,Lounge - Staff
+90-3 - Level 2,WAITING/ CHECK IN,2392,CLINICAL,Registration
+90-3 -Level 1,LACTATION,77,NON-CLINICAL,Mother's Room
+90-3 -Level 1,TELECOM,86,SERV,Information Services Closet
+90-3 - Level 3,WAITING AREA,303,CLINICAL,Waiting Area
+90-3 - Level 4,CORRIDOR,881,SERV,Circulation / Corridor
+90-3 -Level 1,MEN'S SHOWERS,310,SERV,Locker Room
+90-3 -Level 1,WOMEN'S SHOWERS,305,SERV,Locker Room
+90-3 -Level 1,PREP CORRIDOR,246,SERV,Circulation / Corridor
+90-3 -Level 1,MECHANICAL,2174,SERV,Mechanical Room
+90-3 -Level 1,2 HOUR FIRE RATED EXIT PASSAGEWAY,840,SERV,Circulation / Corridor
+90-3 -Level 1,EAST ATRIUM,1230,VERT,Open
+90-3 - Level 2,WOMEN'S TOILET,293,SERV,Public Restroom
+90-3 - Level 2,MEN'S  TLT,295,SERV,Public Restroom
+90-3 - Level 2,ELECTRICAL,106,SERV,Electrical Room
+90-3 - Level 2,TELECOM,98,SERV,Information Services Closet
+90-3 - Level 2,JAN.,42,NON-CLINICAL,Storage - Clean
+90-3 -Level 1,2 HOUR FIRE RATED EXIT PASSAGEWAY,318,SERV,Circulation / Corridor
+90-3 - Level 2,STAFF ELEVATOR,84,VERT,Elevator
+90-3 - Level 2,VESTIBULE,145,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,557,SERV,Circulation / Corridor
+90-3 - Level 4,STAIR 4,263,VERT,Stairs
+90-3 - Level 3,BUSINESS OFFICE,464,NON-CLINICAL,Office
+90-3 - Level 3,STAFF ELEVATOR,83,VERT,Elevator
+90-3 - Level 3,TELECOM,98,SERV,Information Services Closet
+90-3 - Level 3,ELECTRICAL,107,SERV,Electrical Room
+90-3 - Level 3,JAN.,42,NON-CLINICAL,Storage-Housekeeping
+90-3 - Level 4,VESTIBULE,87,SERV,Circulation / Corridor
+90-3 - Level 3,MEN'S  TLT,292,SERV,Public Restroom
+90-3 - Level 3,WOMEN'S TOILET,290,SERV,Public Restroom
+90-3 - Level 4,CORRIDOR,560,SERV,Circulation / Corridor
+90-3 - Level 3,STAIR 3,264,VERT,Stairs
+90-3 - Level 3,WOMEN'S TLT,297,SERV,Public Restroom
+90-3 - Level 3,MEN'S  TLT,298,SERV,Public Restroom
+90-3 - Level 3,TELECOM,87,SERV,Information Services Closet
+90-3 - Level 3,ELECTRICAL,105,SERV,Electrical Room
+90-3 - Level 3,JAN.,46,NON-CLINICAL,Storage-Housekeeping
+90-3 - Level 3,EAST ATRIUM,1239,VERT,Open
+90-3 - Level 3,CENTRAL ATRIUM - 4 STORY,2927,VERT,Open
+90-3 - Level 4,STAFF LOUNGE,211,NON-CLINICAL,Storage - General
+90-3 - Level 4,ADMIN CONFERENCE ROOM,1670,NON-CLINICAL,Conference Room
+90-3 - Level 4,TOILET,65,SERV,Public Restroom
+90-3 - Level 4,A/V,32,NON-CLINICAL,Storage - Equipment
+90-3 - Level 4,PANTRY,118,NON-CLINICAL,Storage - General
+90-3 - Level 4,TOILET,76,SERV,Public Restroom
+90-3 - Level 4,STAFF ELEVATOR,84,VERT,Elevator
+90-3 - Level 4,TELECOM,97,SERV,Information Services Closet
+90-3 - Level 4,ELECTRICAL,107,SERV,Electrical Room
+90-3 - Level 4,JAN.,42,NON-CLINICAL,Storage-Housekeeping
+90-3 - Level 4,MEN'S  TLT,293,SERV,Public Restroom
+90-3 - Level 4,WOMEN'S TOILET,290,SERV,Public Restroom
+90-3 - Level 4,CONFERENCE,165,NON-CLINICAL,Conference Room
+90-3 - Level 4,RESEARCH & RESIDENT STORAGE,224,NON-CLINICAL,Storage - Office Supply
+90-3 - Level 4,CONFERENCE,165,NON-CLINICAL,Conference Room
+90-3 - Level 4,TELECOM,87,SERV,Information Services Closet
+90-3 - Level 4,ELECTRICAL,105,SERV,Electrical Room
+90-3 - Level 4,JAN.,45,NON-CLINICAL,Storage-Housekeeping
+90-3 - Level 4,WOMEN'S TOILET,294,SERV,Public Restroom
+90-3 - Level 4,MEN'S  TLT,295,SERV,Public Restroom
+90-3 - Level 4,STAIR 3,262,VERT,Stairs
+90-3 -Level 1,2 HOUR RATED EXIT PASSAGEWAY,275,SERV,Circulation / Corridor
+90-3 - Level 4,CENTRAL ATRIUM - 4 STORY,2982,VERT,Open
+90-3 -Level 1,CORRIDOR,826,SERV,Circulation / Corridor
+90-3 -Level 1,CORRIDOR,361,SERV,Circulation / Corridor
+90-3 -Level 1,SERVICE ELEVATOR,96,VERT,Elevator
+90-3 -Level 1,VESTIBULE,90,SERV,Circulation / Corridor
+90-3 -Level 1,STERILIZATION,1794,CLINICAL,Sterile Processing
+90-3 -Level 1,WC,15,NON-CLINICAL,Storage - General
+90-3 -Level 1,CORRIDOR,1465,SERV,Circulation / Corridor
+90-3 -Level 1,OFFICE,158,NON-CLINICAL,Office
+90-3 -Level 1,O.R.,593,CLINICAL,Operating Room
+Not Placed,EQUIPMENT STORAGE,Not Placed,NON-CLINICAL,Storage - Equipment
+90-3 -Level 1,SEMI- RESTRICTED CORRIDOR,858,SERV,Circulation / Corridor
+90-3 -Level 1,CONTROL DESK,130,CLINICAL,Anesthesia Workroom
+90-3 -Level 1,CASE CARTS,154,CLINICAL,Anesthesia Workroom
+Not Placed,SCRUB,Not Placed,CLINICAL,Clean Core - OR
+90-3 -Level 1,SOILED WORK,233,NON-CLINICAL,Storage - Soiled
+Not Placed,FUTURE SCRUB,Not Placed,NON-CLINICAL,Shell Space
+Not Placed,O.R. SHELL,Not Placed,NON-CLINICAL,Shell Space
+90-3 -Level 1,EQUIPMENT STORAGE,298,NON-CLINICAL,Storage - Clean
+Not Placed,EQUIPMENT ALCOVE,Not Placed,NON-CLINICAL,Storage - Equipment
+90-3 -Level 1,ANESTHESIA SUPPLY & CLEAN SUPPLY,662,NON-CLINICAL,Shell Space
+90-3 -Level 1,LENS STORAGE,199,CLINICAL,Control Room
+90-3 -Level 1,WOMEN'S TLT,140,NON-CLINICAL,Staff Restroom
+90-3 -Level 1,WOMEN'S LOCKERS,449,NON-CLINICAL,Locker Room
+90-3 -Level 1,MEN'S LOCKERS,271,NON-CLINICAL,Locker Room
+90-3 -Level 1,MEN'S TLT,136,NON-CLINICAL,Staff Restroom
+90-3 -Level 1,OFFICE,160,NON-CLINICAL,Office
+90-3 -Level 1,WOW ALCOVE,203,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (12),120,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (11),116,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (10),116,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (9),116,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (8),116,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (7),120,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (13),95,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (14),96,CLINICAL,Pre-Post Operation
+90-3 -Level 1,TEAM STATION,301,CLINICAL,Nurse Station
+90-3 -Level 1,STAFF TLT,62,SERV,Staff Restroom
+90-3 -Level 1,TLT PT,63,CLINICAL,Patient Room Restroom
+90-3 -Level 1,SOILED HOLDING,145,NON-CLINICAL,Storage - Soiled
+90-3 -Level 1,CLEAN SUPPLY,161,NON-CLINICAL,Storage - Clean
+90-3 -Level 1,MED,135,CLINICAL,Medication Room
+90-3 -Level 1,P/R (20),133,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (19),129,CLINICAL,Pre-Post Operation
+90-3 -Level 1,NOURISH,37,NON-CLINICAL,Nourishment Center
+90-3 -Level 1,P/R (16),139,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (17),141,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (18),138,CLINICAL,Pre-Post Operation
+90-3 -Level 1,TEAM STATION,346,CLINICAL,Nurse Station
+90-3 -Level 1,P/R (6),122,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (5),120,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (4),118,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (3),120,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (2),110,CLINICAL,Pre-Post Operation
+90-3 -Level 1,P/R (1),124,CLINICAL,Pre-Post Operation
+90-3 -Level 1,PATIENT TOILET,73,CLINICAL,Patient Room Restroom
+90-3 -Level 1,EQUIPMENT STORAGE,167,NON-CLINICAL,Storage - Equipment
+90-3 -Level 1,EMERGENCY ELECTRICAL,601,SERV,Electrical Room
+90-3 -Level 1,WAITING AREA,515,CLINICAL,Waiting Area
+Not Placed,DETERGENT ROOM,Not Placed,CLINICAL,Decontamination
+90-3 -Level 1,SPD DROP OFF,170,CLINICAL,Ante Room
+90-3 -Level 1,RO WATER,190,CLINICAL,Sterile Processing
+90-3 -Level 1,EVS DIRTY,86,NON-CLINICAL,Storage - Housekeeping
+90-3 -Level 1,CLEAN WORK PREP/ PACK,555,CLINICAL,Sterile Processing
+90-3 -Level 1,HOLDING AREA,306,CLINICAL,Sterile Processing
+90-3 -Level 1,SPD PICK UP,144,CLINICAL,Ante Room
+90-3 -Level 1,INSTRUMENT STORAGE,471,NON-CLINICAL,Storage - Clean
+90-3 -Level 1,TLT,52,SERV,Public Restroom
+90-3 -Level 1,BUILDING MATERIAL MANAGEMENT,967,NON-CLINICAL,Storage - General
+90-3 -Level 1,SECURITY BASE,253,NON-CLINICAL,Security Station
+90-3 -Level 1,MAIN IT / MDF ROOM,252,SERV,Info Svcs - MDF Closet
+90-3 -Level 1,MED GAS STORAGE,73,NON-CLINICAL,Storage - Medical Gas
+90-3 -Level 1,OPEN FOR ELEV ACCESS & STAGING,208,NON-CLINICAL,Storage - General
+90-3 - Level 2,TRIAGE,92,CLINICAL,Nurse Station
+90-3 - Level 2,EXAM,131,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,133,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,131,CLINICAL,Exam Room
+90-3 - Level 2,EQUIPMENT STORAGE,109,NON-CLINICAL,Storage - Equipment
+90-3 - Level 2,EXAM,169,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,163,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,178,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,168,CLINICAL,Exam Room
+90-3 - Level 2,SUB WAIT,36,CLINICAL,Waiting Area
+90-3 - Level 2,SUB WAIT,38,CLINICAL,Waiting Area
+90-3 - Level 2,EXAM,162,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,165,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,176,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,179,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,168,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,184,CLINICAL,Exam Room
+90-3 - Level 2,YAG LASER,184,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,186,CLINICAL,Exam Room
+90-3 - Level 2,TEAM STATION,221,CLINICAL,Nurse Station
+90-3 - Level 2,EXAM,165,CLINICAL,Exam Room
+90-3 - Level 2,TEAM STATION - MINOR PROCEDURE,160,CLINICAL,Nurse Station
+90-3 - Level 2,EXAM,175,NON-CLINICAL,Office
+90-3 - Level 2,SOILED HOLD,72,NON-CLINICAL,Storage - General
+90-3 - Level 2,EXAM,163,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,178,NON-CLINICAL,Storage - Clean
+90-3 - Level 2,EXAM,178,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,177,CLINICAL,Exam Room
+90-3 - Level 2,PEDIATRIC EXAM,239,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,174,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,179,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,138,NON-CLINICAL,Storage - Soiled
+90-3 - Level 2,EXAM,138,CLINICAL,Sterile Processing
+90-3 - Level 2,EXAM,179,CLINICAL,Research Lab
+90-3 - Level 2,EXAM,135,CLINICAL,Nurse Station
+90-3 - Level 2,CLEAN SUPPLY,207,NON-CLINICAL,Storage - Soiled
+90-3 - Level 2,INJECT,171,CLINICAL,Exam Room
+90-3 - Level 2,INJECT,165,CLINICAL,Exam Room
+90-3 - Level 2,MED,170,CLINICAL,Medication Room
+Not Placed,OCT,Not Placed,CLINICAL,Exam Room
+Not Placed,SHELL,Not Placed,NON-CLINICAL,Shell Space
+90-3 - Level 2,TRIAGE,125,NON-CLINICAL,Work Area
+90-3 - Level 2,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 2,SOILED HOLDING,219,CLINICAL,Sterile Processing
+90-3 - Level 2,ARGON LASER,203,CLINICAL,Exam Room
+90-3 - Level 2,EM CART,42,NON-CLINICAL,Storage - Equipment
+90-3 - Level 2,VIS FLDS,88,CLINICAL,Exam Room
+90-3 - Level 2,WORKUP,171,CLINICAL,Exam Room
+90-3 - Level 2,WORKUP,172,CLINICAL,Exam Room
+90-3 - Level 2,WORKROOM,130,CLINICAL,Exam Room
+90-3 - Level 2,SLIT LAMP,168,CLINICAL,Exam Room
+90-3 - Level 2,ULTRASOUND,215,CLINICAL,Exam Room
+Not Placed,BUSINESS OFFICE,Not Placed,NON-CLINICAL,Office
+90-3 - Level 2,SCHED/CHK OUT,360,CLINICAL,Registration
+90-3 - Level 2,CLEAN WORK,91,NON-CLINICAL,Storage - Clean
+90-3 - Level 2,NURSE MANAGER,131,NON-CLINICAL,Office
+90-3 - Level 2,SHELL SPACE,6304,NON-CLINICAL,Shell Space
+90-3 - Level 2,LAB WORK AREA,170,CLINICAL,Outpatient Lab
+90-3 - Level 2,BLOOD DRAW 3,83,CLINICAL,Blood Draw
+90-3 - Level 2,BLOOD DRAW 2,91,CLINICAL,Blood Draw
+90-3 - Level 2,BLOOD DRAW 1,118,CLINICAL,Blood Draw
+90-3 - Level 2,TOILET,65,CLINICAL,Patient Room Restroom
+90-3 - Level 2,IOS EXAM,201,NON-CLINICAL,Storage - General
+90-3 - Level 2,SCHEDULERS,95,CLINICAL,Exam Room
+90-3 - Level 2,VITALS ALCOVE,64,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,126,NON-CLINICAL,Office
+90-3 - Level 2,EXAM,125,NON-CLINICAL,Office
+90-3 - Level 2,EXAM,128,NON-CLINICAL,Shell Space
+90-3 - Level 2,PROVIDER WORK ROOM,264,CLINICAL,Nurse Station
+90-3 - Level 2,EXAM,125,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,130,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,122,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,124,CLINICAL,Exam Room
+90-3 - Level 2,EXAM,124,CLINICAL,Exam Room
+90-3 - Level 2,OFFICE,155,CLINICAL,Lab (In/Out Patient)
+90-3 - Level 2,PROVIDER WORK ROOM,265,NON-CLINICAL,Work Area
+90-3 - Level 2,NURSE STATION,125,RETAIL,Optical Shop
+Not Placed,TEAM STATION,Not Placed,CLINICAL,Nurse Station
+Not Placed,TRIAGE,Not Placed,CLINICAL,Exam Room
+Not Placed,SUB WAIT,Not Placed,CLINICAL,Waiting Area
+90-3 - Level 3,SOILED LINEN / TRASH,96,CLINICAL,Exam Room
+90-3 - Level 3,PA ROOM,148,CLINICAL,Exam Room
+Not Placed,EXAM,Not Placed,CLINICAL,Exam Room
+Not Placed,EXAM,Not Placed,CLINICAL,Exam Room
+Not Placed,EXAM,Not Placed,CLINICAL,Exam Room
+Not Placed,EXAM,Not Placed,CLINICAL,Exam Room
+Not Placed,EXAM,Not Placed,CLINICAL,Exam Room
+Not Placed,PA ROOM,Not Placed,CLINICAL,Consultation Room
+Not Placed,EXAM,Not Placed,CLINICAL,Exam Room
+Not Placed,DICTATION (2),Not Placed,NON-CLINICAL,Office
+Not Placed,PA ROOM,Not Placed,CLINICAL,Consultation Room
+Not Placed,IOL/PENT,Not Placed,CLINICAL,Exam Room
+Not Placed,PATIENT ED,Not Placed,NON-CLINICAL,Office
+Not Placed,SOILED LINEN/ TRASH,Not Placed,NON-CLINICAL,Storage - Soiled
+Not Placed,CLEAN WORK,Not Placed,NON-CLINICAL,Storage - Clean
+90-3 - Level 3,EXAM,170,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,170,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,172,CLINICAL,Exam Room
+90-3 - Level 3,EQUIP STORAGE,115,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,171,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,171,NON-CLINICAL,Office
+90-3 - Level 3,EXAM,182,CLINICAL,Exam Room
+90-3 - Level 3,YAG LASER,180,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,164,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,164,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,165,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,163,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,165,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,167,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,166,CLINICAL,Exam Room
+90-3 - Level 3,EXAM,166,CLINICAL,Exam Room
+90-3 - Level 3,ARGON LASER,177,CLINICAL,Exam Room
+90-3 - Level 3,SUB WAIT,125,CLINICAL,Waiting Area
+Not Placed,SUB WAIT,Not Placed,CLINICAL,Waiting Area
+90-3 - Level 3,SUB WAIT,42,CLINICAL,Waiting Area
+90-3 - Level 3,SCHED/CHK OUT,360,CLINICAL,Registration
+Not Placed,SLIT LAMP,Not Placed,CLINICAL,Exam Room
+Not Placed,OCT,Not Placed,CLINICAL,Exam Room
+Not Placed,OCT,Not Placed,CLINICAL,Exam Room
+Not Placed,FUNDUS,Not Placed,CLINICAL,Exam Room
+Not Placed,WRKRM,Not Placed,NON-CLINICAL,Work Area
+Not Placed,VIS FLDS,Not Placed,CLINICAL,Exam Room
+Not Placed,VIS FLDS,Not Placed,CLINICAL,Exam Room
+Not Placed,VIS FLDS,Not Placed,CLINICAL,Exam Room
+Not Placed,OPTOS,Not Placed,CLINICAL,Exam Room
+Not Placed,EQUIPMENT STORAGE,Not Placed,NON-CLINICAL,Storage - Equipment
+Not Placed,TREATMENT,Not Placed,CLINICAL,Treatment Room
+Not Placed,TREATMENT,Not Placed,CLINICAL,Treatment Room
+Not Placed,MED / CLEAN,Not Placed,CLINICAL,Medication Room
+Not Placed,SOILED HOLDING,Not Placed,CLINICAL,Sterile Processing
+Not Placed,CLEAN SUPPLY,Not Placed,NON-CLINICAL,Storage - Clean
+Not Placed,YAG LASER,Not Placed,CLINICAL,Exam Room
+Not Placed,ARGON LASER,Not Placed,CLINICAL,Exam Room
+90-3 - Level 3,SUB WAIT,53,CLINICAL,Waiting Area
+90-3 - Level 3,STAFF LOUNGE,544,NON-CLINICAL,Lounge - Staff
+Not Placed,EYE TRACE/PENT.,Not Placed,CLINICAL,Exam Room
+90-3 - Level 3,SUB WAIT,67,CLINICAL,Waiting Area
+90-3 -Level 1,P/R 4,108,SERV,Public Restroom
+90-3 -Level 1,LOCAL ELECTRICAL,97,SERV,Electrical Room
+90-3 -Level 1,CLEAN LINEN,207,NON-CLINICAL,Storage - Clean
+90-3 -Level 1,SOILED LINEN,200,NON-CLINICAL,Storage - Soiled
+90-3 -Level 1,STAIR 2,236,VERT,Stairs
+90-3 - Level 2,STAIR 3,260,VERT,Stairs
+90-3 - Level 2,MEN'S  TLT,294,SERV,Public Restroom
+90-3 - Level 2,WOMEN'S TLT,288,SERV,Public Restroom
+90-3 - Level 2,JAN.,46,NON-CLINICAL,Storage - Clean
+90-3 - Level 2,ELECTRICAL,105,SERV,Electrical Room
+90-3 - Level 2,TELECOM,87,SERV,Information Services Closet
+90-3 - Level 2,STAFF LOUNGE,237,NON-CLINICAL,Storage - General
+90-3 - Level 2,STAFF TLT,79,CLINICAL,Patient Room Restroom
+90-3 - Level 2,BREAKDOWN,406,NON-CLINICAL,Storage - General
+90-3 - Level 3,SUB WAIT,183,CLINICAL,Waiting Area
+Not Placed,SHELL SPACE,Not Placed,NON-CLINICAL,Shell Space
+90-3 - Level 3,PED INFUS BAY,129,CLINICAL,Treatment Room
+90-3 - Level 3,PED INFUS BAY,127,CLINICAL,Treatment Room
+90-3 - Level 3,PED INFUS BAY,150,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,151,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,126,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,131,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,158,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,158,CLINICAL,Treatment Room
+90-3 - Level 3,PROVIDER OFFICE,125,NON-CLINICAL,Office
+90-3 - Level 3,NURSING STATION,447,CLINICAL,Nurse Station
+90-3 - Level 3,NOUR,69,NON-CLINICAL,Nourishment Center
+90-3 - Level 3,INFUS BAY,110,CLINICAL,Treatment Room
+90-3 - Level 3,LDRSHP OFFICE,117,NON-CLINICAL,Office
+90-3 - Level 3,EQUIPMENT STORAGE,148,NON-CLINICAL,Storage - Equipment
+90-3 - Level 3,SOILED,140,NON-CLINICAL,Storage - Soiled
+90-3 - Level 3,CLEAN,274,NON-CLINICAL,Storage - Clean
+90-3 - Level 3,MED,124,CLINICAL,Medication Room
+90-3 - Level 3,PRIVATE TLT,82,CLINICAL,Patient Room Restroom
+90-3 - Level 3,PRIVATE INFUS BAY,128,CLINICAL,Treatment Room
+90-3 - Level 3,TLT,79,CLINICAL,Patient Room Restroom
+90-3 - Level 3,INFUS BAY,112,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,114,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,113,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,113,CLINICAL,Treatment Room
+90-3 - Level 3,INFUS BAY,113,CLINICAL,Treatment Room
+90-3 - Level 3,PT TLT,70,CLINICAL,Patient Room Restroom
+90-3 - Level 3,ELEVATOR STAGING,455,NON-CLINICAL,Storage - General
+90-3 - Level 2,STAFF LOUNGE,572,NON-CLINICAL,Lounge - Staff
+90-3 - Level 4,A/V EQUIP.,564,NON-CLINICAL,Storage - Equipment
+90-3 - Level 4,VICE CHAIR RESEARCH,111,NON-CLINICAL,Office
+90-3 - Level 4,CONFERENCE,201,NON-CLINICAL,Conference Room
+90-3 - Level 4,VICE CHAIR CLINICAL,204,NON-CLINICAL,Office
+90-3 - Level 4,BUSINESS ADMINISTRATOR,104,NON-CLINICAL,Office
+90-3 - Level 4,CORRIDOR,759,SERV,Circulation / Corridor
+90-3 - Level 2,RESEARCH EXAM,242,CLINICAL,Exam Room
+90-3 - Level 2,PEDIATRIC EXAM,221,CLINICAL,Exam Room
+90-3 - Level 2,PEDIATRIC EXAM,237,CLINICAL,Exam Room
+90-3 - Level 2,PEDIATRIC EXAM - LEFT,237,CLINICAL,Exam Room
+90-3 - Level 2,RESEARCH EXAM,242,CLINICAL,Exam Room
+90-3 - Level 2,OCT,141,CLINICAL,Exam Room
+90-3 - Level 2,SPLY CART,83,NON-CLINICAL,Storage - General
+90-3 - Level 2,WAITING,285,CLINICAL,Waiting Area
+90-3 - Level 2,PLAY ROOM,196,CLINICAL,Waiting Area
+90-3 - Level 2,TEAM STATION,142,CLINICAL,Nurse Station
+90-3 - Level 2,IOL / PENT,101,NON-CLINICAL,Mother's Room
+Not Placed,QUIET,Not Placed,CLINICAL,Exam Room
+90-3 - Level 2,AUTOREFRACTOR ALCOVE,86,NON-CLINICAL,Storage - General
+90-3 - Level 4,ACADEMIC VICE CHAIR,88,NON-CLINICAL,Office
+90-3 - Level 4,LACTATION,86,NON-CLINICAL,Mother's Room
+90-3 - Level 4,RESIDENCY PROGRAM DIRECTOR,209,NON-CLINICAL,Office
+90-3 - Level 4,COPY/WORK,234,NON-CLINICAL,Mailroom
+90-3 - Level 4,HYDRATION /COFFEE,234,NON-CLINICAL,Break Room
+90-3 - Level 4,RESIDENT LAB,379,CLINICAL,Research Lab
+90-3 - Level 2,STAIR 4,264,VERT,Stairs
+90-3 - Level 2,SUBWAITING,178,CLINICAL,Waiting Area
+90-3 - Level 2,PHLEB.,216,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,555,SERV,Circulation / Corridor
+90-3 - Level 4,PREFUNCTION,247,NON-CLINICAL,Auditorium
+90-3 - Level 3,LINEN,14,NON-CLINICAL,Storage - General
+90-3 - Level 3,CORRIDOR,688,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,194,SERV,Circulation / Corridor
+90-3 - Level 3,CHECK IN/OUT,274,CLINICAL,Registration
+90-3 - Level 3,CORRIDOR,414,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,902,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,387,SERV,Circulation / Corridor
+Not Placed,SUB WAIT,Not Placed,CLINICAL,Waiting Area
+90-3 - Level 3,CORRIDOR,508,SERV,Circulation / Corridor
+90-3 - Level 2,PT TLT,72,CLINICAL,Patient Room Restroom
+90-3 -Level 1,P/R (15),95,CLINICAL,Pre-Post Operation
+90-3 - Level 2,WHEELCHAIRS,73,NON-CLINICAL,Storage - General
+Not Placed,CASE CARTS,Not Placed,NON-CLINICAL,Storage - General
+90-3 -Level 1,OMNICELL,202,NON-CLINICAL,Storage - Equipment
+90-3 - Level 3,WHEELCHAIRS,26,NON-CLINICAL,Storage - General
+90-3 -Level 1,BLKT/FLUID WRM,35,NON-CLINICAL,Storage - General
+90-3 -Level 1,PPE CABINET,10,NON-CLINICAL,Storage - General
+90-3 -Level 1,BLANKET WARMER,10,NON-CLINICAL,Storage - General
+90-3 -Level 1,DECONTAMINATION,980,CLINICAL,Decontamination
+Not Placed,SUPERVISOR OFFICE,Not Placed,NON-CLINICAL,Office
+90-3 -Level 1,SPD CLEAN SUPPLY,108,NON-CLINICAL,Storage - Clean
+90-3 - Level 2,SHELL,579,NON-CLINICAL,Shell Space
+90-3 - Level 2,SUB WAIT,20,CLINICAL,Waiting Area
+90-3 - Level 2,SUB WAIT,18,CLINICAL,Waiting Area
+90-3 -Level 1,BIOHAZARD WASTE,93,NON-CLINICAL,Storage - Soiled
+90-3 -Level 1,TRASH/RECYCLE HOLDING,187,NON-CLINICAL,Storage - Soiled
+90-3 -Level 1,WORKSTATION, DISPATCH,110,NON-CLINICAL,Work Station
+90-3 -Level 1,OFFICE EQUIPMENT ALCOVE,27,NON-CLINICAL,Storage - Office Supply
+90-3 -Level 1,RCV/BREAKDOWN,120,NON-CLINICAL,Storage - General
+Not Placed,PALLET JACK ALCOVE,Not Placed,NON-CLINICAL,Storage - General
+90-3 -Level 1,STERILIZERS,171,CLINICAL,Sterile Processing
+90-3 -Level 1,EVS SUPPLY/EQ STOR,273,NON-CLINICAL,Storage - Equipment
+Not Placed,CHEM STOR,Not Placed,NON-CLINICAL,Storage - Chemicals
+Not Placed,EVS CLEAN,Not Placed,NON-CLINICAL,Storage - Housekeeping
+90-3 - Level 2,SUB WAITING,44,CLINICAL,Waiting Area
+90-3 - Level 3,SUB WAIT,56,CLINICAL,Waiting Area
+Not Placed,SUB WAIT,Not Placed,CLINICAL,Waiting Area
+90-3 -Level 1,MAILROOM,201,NON-CLINICAL,Mailroom
+90-3 -Level 1,AV/IT,76,SERV,Info Svcs - IDF Closet
+90-3 - Level 2,STORAGE,129,NON-CLINICAL,Storage - General
+90-3 -Level 1,LINEN,33,NON-CLINICAL,Storage-Housekeeping
+Not Placed,FUTURE SCRUB,Not Placed,NON-CLINICAL,Shell Space
+90-3 - Level 3,ANTE ROOM,79,CLINICAL,Ante Room
+90-3 -Level 1,STAFF TOILET,78,CLINICAL,Patient Room Restroom
+90-3 -Level 1,DICTATION / HUDDLE/ ANESTHESIA WORKROOM,113,CLINICAL,Nurse Station
+90-3 - Level 4,CHAIR,204,NON-CLINICAL,Office
+Not Placed,CRASH CART ALCOVE,Not Placed,NON-CLINICAL,Storage - General
+Not Placed,SUB WAIT,Not Placed,CLINICAL,Waiting Area
+90-3 - Level 3,CLEAN ROOM NON HAZARDOUS,367,CLINICAL,Outpatient Pharmacy
+90-3 - Level 3,ANTE/PREP,136,CLINICAL,Outpatient Pharmacy
+90-3 - Level 3,CLEAN ROOM HAZARDOUS,132,CLINICAL,Outpatient Pharmacy
+90-3 - Level 3,NURSE INTAKE (4),191,NON-CLINICAL,Work Station
+90-3 - Level 3,MNGR,121,NON-CLINICAL,Office
+90-3 - Level 3,TECH MNGR,121,NON-CLINICAL,Office
+90-3 - Level 3,PHARM WORKRM (10),548,CLINICAL,Outpatient Pharmacy
+90-3 - Level 3,WAREHOUSE STORAGE,740,NON-CLINICAL,Storage - General
+90-3 - Level 3,PUMP/DME,209,CLINICAL,Clinical Work Room
+90-3 - Level 3,DRUG STORAGE,266,CLINICAL,Storage - Pharmacy
+90-3 - Level 3,CHECK,204,CLINICAL,Outpatient Pharmacy
+90-3 - Level 3,SHIP/DEL FULFILLMNT,453,NON-CLINICAL,Storage - General
+90-3 - Level 3,STAGING,365,NON-CLINICAL,Storage - General
+90-3 - Level 3,HOTELING (2),145,NON-CLINICAL,Office
+90-3 - Level 3,CORRIDOR,664,SERV,Circulation / Corridor
+90-3 - Level 3,SHARED BREAKROOM,668,NON-CLINICAL,Break Room
+90-3 - Level 3,STAFF  TOILET,77,SERV,Staff Restroom
+90-3 - Level 3,WC/SCALE,33,NON-CLINICAL,Storage - General
+90-3 - Level 3,WOWS,20,CLINICAL,Storage - General
+90-3 - Level 3,CRASH CART ALCOVE,16,NON-CLINICAL,Storage - General
+90-3 - Level 3,CONFERENCE,208,NON-CLINICAL,Conference Room
+90-3 - Level 2,SUB WAIT,482,CLINICAL,Waiting Area
+90-3 - Level 2,SOILED,166,NON-CLINICAL,Shell Space
+Not Placed,TRIAGE,Not Placed,CLINICAL,Exam Room
+90-3 - Level 3,PRACTICE MANAGER,130,NON-CLINICAL,Office
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 3,DIRECTOR,202,NON-CLINICAL,Office
+90-3 - Level 3,MAC (6),353,NON-CLINICAL,Storage - General
+90-3 -Level 1,SHELL SPACE,76,NON-CLINICAL,Shell Space
+90-3 -Level 1,SHELL SPACE,180,NON-CLINICAL,Shell Space
+90-3 - Level 4,ROOF TERRACE,228,NON-CLINICAL,Auditorium
+Not Placed,SUB WAIT,Not Placed,CLINICAL,Waiting Area
+90-3 - Level 2,EMERGENCY ALCOVE,69,SERV,Mechanical Room
+90-3 - Level 2,MECH,126,SERV,Mechanical Room
+90-3 - Level 2,EXAM,127,SERV,Mechanical Room
+90-3 - Level 2,MECH,42,SERV,Mechanical Room
+90-3 - Level 2,MECH,86,SERV,Mechanical Room
+90-3 - Level 2,MECH,17,SERV,Mechanical Room
+90-3 - Level 2,MECH,25,SERV,Mechanical Room
+90-3 - Level 2,MECH,28,SERV,Mechanical Room
+90-3 - Level 2,MECH,29,SERV,Mechanical Room
+90-3 - Level 2,MECH,28,SERV,Mechanical Room
+90-3 - Level 2,MECH,17,SERV,Mechanical Room
+90-3 - Level 2,MECH,47,SERV,Mechanical Room
+90-3 - Level 2,MECH,30,SERV,Mechanical Room
+90-3 - Level 3,MECH,35,SERV,Mechanical Room
+90-3 - Level 3,MECH,33,SERV,Mechanical Room
+90-3 - Level 3,MECH,13,SERV,Mechanical Room
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+90-3 - Level 3,MECH,15,SERV,Mechanical Room
+90-3 - Level 3,MECH,18,SERV,Mechanical Room
+90-3 - Level 3,MECH,31,SERV,Mechanical Room
+90-3 - Level 3,MECH,17,SERV,Mechanical Room
+90-3 - Level 3,MECH,24,SERV,Mechanical Room
+90-3 - Level 3,MECH,20,SERV,Mechanical Room
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+90-3 - Level 3,MECH,5,SERV,Mechanical Room
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+90-3 - Level 3,MECH,21,SERV,Mechanical Room
+90-3 - Level 2,VIS FLDS,87,CLINICAL,Exam Room
+Not Placed,AUTOREFRACTOR,Not Placed,CLINICAL,Exam Room
+90-3 -Level 1,SCRUB,35,CLINICAL,Clean Core - OR
+90-3 - Level 4,RESIDENTS & FELLOWS LOUNGE,421,NON-CLINICAL,Break Room
+90-3 - Level 4,RESIDENTS WORK AREA,698,NON-CLINICAL,Work Area
+90-3 - Level 4,OPEN COLLAB,217,NON-CLINICAL,Work station
+90-3 - Level 4,HOTELING,96,NON-CLINICAL,Work Area
+90-3 - Level 4,FELLOWS,638,NON-CLINICAL,Office
+90-3 - Level 4,WAITING,395,CLINICAL,Waiting Area
+90-3 - Level 4,HOTELING,109,NON-CLINICAL,Work Area
+90-3 -Level 1,PHYSICIAN WORK/LOUNGE,287,NON-CLINICAL,Lounge-Physician
+90-3 - Level 4,ADMIN WORK AREA,317,NON-CLINICAL,Office
+90-3 - Level 4,ADMIN,153,NON-CLINICAL,Office
+90-3 -Level 1,PREP CORRIDOR,796,SERV,Circulation / Corridor
+90-3 -Level 1,PREP CORRIDOR,195,SERV,Circulation / Corridor
+90-3 -Level 1,PREP CORRIDOR,587,SERV,Circulation / Corridor
+90-3 -Level 1,PREP CORRIDOR,535,SERV,Circulation / Corridor
+90-3 -Level 1,CENTRAL ATRIUM - 4 STORY,4103,VERT,Open
+90-3 - Level 2,CENTRAL ATRIUM - OPEN TO BELOW & ABOVE,2790,VERT,Open
+90-3 - Level 3,STAIR 4,266,VERT,Stairs
+90-3 - Level 4,CORRIDOR,409,SERV,Circulation / Corridor
+90-3 - Level 4,OPEN TO BELOW,144,VERT,Open
+90-3 - Level 4,OPEN TO BELOW,145,VERT,Open
+90-3 - Level 3,OPEN TO BELOW,143,VERT,Open
+90-3 - Level 3,OPEN TO BELOW,145,VERT,Open
+90-3 -Level 1,ELEV 2,134,VERT,Elevator
+90-3 -Level 1,STAIR 1,901,VERT,Stairs
+90-3 - Level 2,STAIR 2,222,VERT,Stairs
+90-3 - Level 2,ELEV 1,72,VERT,Elevator
+90-3 - Level 2,ELEV 2,72,VERT,Elevator
+90-3 - Level 2,STAIR 1,Redundant Room,VERT,Stairs
+90-3 - Level 2,SERVICE ELEV,82,VERT,Elevator
+90-3 - Level 3,STAIR 2,222,VERT,Stairs
+Not Placed,STAIR 1,Not Placed,VERT,Stairs
+90-3 - Level 4,SERVICE ELEV,82,VERT,Elevator
+90-3 - Level 4,ELEV 1,72,VERT,Elevator
+90-3 - Level 4,ELEV 2,73,VERT,Elevator
+90-3 - Level 4,STAIR 1,89,VERT,Stairs
+90-3 - Level 4,CORRIDOR,90,SERV,Circulation / Corridor
+90-3 - Level 3,SOUTHWEST ATRIUM 2 STORY,1051,VERT,Open
+90-3 - Level 3,VESTIBULE,81,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,89,SERV,Circulation / Corridor
+90-3 - Level 4,COPY / HYDRATION / COFFEE,382,NON-CLINICAL,Break Room
+90-3 - Level 4,CORRIDOR,212,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,179,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,105,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,635,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,593,SERV,Circulation / Corridor
+90-3 - Level 4,CORRIDOR,129,SERV,Circulation / Corridor
+90-3 - Level 3,OPEN TO BELOW,2740,VERT,Open
+90-3 - Level 3,OPEN TO BELOW,480,VERT,Open
+90-3 - Level 3,OPEN TO BELOW,558,VERT,Open
+90-3 - Level 3,OPEN TO BELOW,1387,VERT,Open
+90-3 - Level 3,OPEN TO BELOW,811,VERT,Open
+90-3 - Level 3,CORRIDOR,155,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,166,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,155,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,568,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,91,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,216,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,275,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,95,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,549,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,628,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,170,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,489,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,90,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,371,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,121,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,478,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,206,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,385,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,397,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,151,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,341,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,569,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,458,SERV,Circulation / Corridor
+90-3 - Level 3,CORRIDOR,273,SERV,Circulation / Corridor
+90-3 - Level 3,ELEV 1,139,VERT,Elevator
+90-3 - Level 3,ELEV 2,73,VERT,Elevator
+90-3 - Level 3,SERVICE ELEVATOR,101,VERT,Elevator
+90-3 - Level 3,EAST ATRIUM - OPEN TO BELOW,2204,VERT,Open
+90-3 - Level 3,POC TESTING,39,CLINICAL,Outpatient Lab
+90-3 - Level 2,CORRIDOR,1038,SERV,Circulation / Corridor
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,230,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,889,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,145,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,165,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,120,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,91,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,229,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,82,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,739,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,735,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,769,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,401,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,688,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,142,SERV,Circulation / Corridor
+90-3 - Level 2,WAITING,2225,CLINICAL,Waiting Area
+90-3 - Level 2,OPEN TO ABOVE & BELOW,1237,VERT,Open
+90-3 - Level 2,CORRIDOR,133,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,526,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,134,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,138,SERV,Circulation / Corridor
+90-3 - Level 2,CORRIDOR,139,SERV,Circulation / Corridor
+90-3 - Level 2,OPEN TO ABOVE & BELOW,145,VERT,open
+90-3 - Level 2,OPEN TO ABOVE & BELOW,145,VERT,Open
+90-3 - Level 2,CORRIDOR,91,SERV,Circulation / Corridor
+90-3 -Level 1,CORRIDOR,756,SERV,Circulation / Corridor
+Not Placed,ALCOVE,Not Placed,NON-CLINICAL,Storage - General
+Not Placed,CORRIDOR,Not Placed,SERV,Circulation / Corridor
+90-3 -Level 1,CORRIDOR,873,SERV,Circulation / Corridor
+90-3 -Level 1,CORRIDOR,566,SERV,Circulation / Corridor
+90-3 -Level 1,CORRIDOR,432,SERV,Circulation / Corridor
+90-3 -Level 1,ELEV 1,134,VERT,Elevator
+90-3 - Level 4,CLOSET,22,NON-CLINICAL,Storage - General
+90-3 -Level 1,EQUIPMENT STORAGE,16,NON-CLINICAL,Storage - Equipment
+90-3 -Level 1,TEAM STATION,71,CLINICAL,Nurse Station
+90-3 -Level 1,P/R 5,107,NON-CLINICAL,Storage - General
+90-3 - Level 4,CORRIDOR,37,SERV,Circulation / Corridor
+90-3 - Level 2,ADMIN,255,NON-CLINICAL,Office
+90-3 - Level 3,SCHED/CHK OUT,240,CLINICAL,Registration
+90-3 -Level 1,CHEMICAL STORAGE,85,NON-CLINICAL,Storage - Chemicals
+Not Placed,OPEN TO ABOVE,Not Placed,VERT,Open
+90-3 - Level 2,GI WAITING,619,NON-CLINICAL,Lobby
+90-3 -Level 1,TLT PT,78,SERV,Public Restroom
+90-3 -Level 1,EXAM,144,CLINICAL,Exam Room
+90-3 -Level 1,LASIK PROCEDURE,334,CLINICAL,Procedure Room
+90-3 -Level 1,PATIENT TOILET,78,SERV,Staff Restroom
+90-3 -Level 1,CHECK-IN & KIOSK,195,CLINICAL,Waiting Area
+Not Placed,OPEN COLLAB,Not Placed,NON-CLINICAL,Work station
+Not Placed,OPEN COLLAB,Not Placed,NON-CLINICAL,Work station
+90-3 - Level 4,RESEARCH,740,NON-CLINICAL,Office
+90-3 - Level 4,FACULTY,277,NON-CLINICAL,Work station
+90-3 - Level 4,FACULTY,465,NON-CLINICAL,Office Work Room
+90-3 - Level 4,FACULTY,430,NON-CLINICAL,Office Work Room
+90-3 - Level 4,ADMIN,196,NON-CLINICAL,Work station
+90-3 - Level 4,FACULTY,324,NON-CLINICAL,Work Area
+90-3 - Level 4,FACULTY,444,NON-CLINICAL,Office Work Room
+90-3 - Level 4,OPEN COLLAB,388,NON-CLINICAL,Work station
+90-3 - Level 4,FACULTY,259,NON-CLINICAL,Office Work Room
+90-3 - Level 4,OFFICE,103,NON-CLINICAL,Office
+90-3 -Level 1,VESTIBULE,61,SERV,Circulation / Corridor
+90-3 -Level 1,VESTIBULE,89,SERV,Circulation / Corridor
+90-3 - Level 3,MECH. SHAFT,201,SERV,Mechanical Room
+90-3 - Level 2,STAIR 1,147,VERT,Stairs
+90-3 - Level 2,MECH,80,SERV,Mechanical Room
+90-3 - Level 2,EQUIP,66,NON-CLINICAL,Shell Space
+90-3 - Level 3,MECH.,69,SERV,Mechanical Room
+90-3 - Level 4,MEETING ROOM,88,NON-CLINICAL,Conference Room
+90-3 - Level 4,MEETING ROOM,88,NON-CLINICAL,Conference Room
+90-3 - Level 4,MEETING ROOM,86,NON-CLINICAL,Conference Room
+90-3 - Level 4,MEETING ROOM,86,NON-CLINICAL,Conference Room
+90-3 - Level 4,MEETING,86,NON-CLINICAL,Conference Room
+90-3 - Level 4,MEETING ROOM,78,NON-CLINICAL,Conference Room
+90-3 - Level 4,MEETING ROOM,80,NON-CLINICAL,Conference Room
+Exist. 90-3 - Level 0,MED GAS MANIFOLD ROOM,219,SERV,Mechanical Room
+Not Placed,VESTIBULE,Not Placed,SERV,Circulation / Corridor
+90-3 -Level 1,CONSULT,75,CLINICAL,Consultation Room
+90-3 - Level 3,HAZ. DRUG STOR.,65,CLINICAL,Pharmacy (In/Out Patient)
+Not Placed,MECH,Not Placed,SERV,Mechanical Room
+Not Placed,SHAFT,Not Placed,VERT,"Shaft, Duct"
+90-3 -Level 1,SHAFT,10,VERT,"Shaft, Duct"
+90-3 -Level 1,SHAFT,9,VERT,"Shaft, Duct"
+90-3 -Level 1,SHAFT,10,VERT,"Shaft, Duct"
+Not Placed,SHAFT,Not Placed,VERT,"Shaft, Duct"
+Not Placed,SHAFT,Not Placed,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,7,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,Redundant Room,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,7,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,6,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,5,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,8,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,15,VERT,"Shaft, Duct"
+90-3 - Level 2,SHAFT,113,VERT,"Shaft, Duct"
+90-3 - Level 3,SHAFT,10,VERT,"Shaft, Duct"
+90-3 - Level 3,SHAFT,10,VERT,"Shaft, Duct"
+90-3 - Level 3,SHAFT,10,VERT,"Shaft, Duct"
+90-3 - Level 3,SHAFT,14,VERT,"Shaft, Duct"
+90-3 - Level 3,SHAFT,14,VERT,"Shaft, Duct"
+Not Placed,BOILER ROOM,Not Placed,,
+Not Placed,STORAGE,Not Placed,,
+90-3 -Level 1,EVS,62,,
+90-3 -Level 1,SHELL SPACE,2469,,
+90-3 -Level 1,SCRUB,35,,
+90-3 -Level 1,STRETCHER,117,,
+90-3 -Level 1,CRASH CART ALCOVE,16,,
+90-3 -Level 1,ENDO 03,294,,
+90-3 -Level 1,ENDO 02,302,,
+90-3 -Level 1,ENDO 01,297,,
+90-3 -Level 1,EQUIPMENT STORAGE,130,,
+Not Placed,SOILED,Not Placed,,
+90-3 -Level 1,CHECK IN,214,,
+Not Placed,W.C. STOR.,Not Placed,,
+90-3 -Level 1,WAITING,126,,
+Not Placed,STORAGE?,Not Placed,,
+Not Placed,ST TLT,Not Placed,,
+90-3 -Level 1,PT TLT,60,,
+90-3 -Level 1,P/R 1,107,,
+90-3 -Level 1,P/R 2,107,,
+90-3 -Level 1,P/R 3,107,,
+90-3 -Level 1,P/R 6,108,,
+90-3 -Level 1,P/R 7,107,,
+90-3 -Level 1,P/R 8,108,,
+90-3 -Level 1,P/R 12,101,,
+90-3 -Level 1,P/R 11,102,,
+90-3 -Level 1,P/R 10,97,,
+90-3 -Level 1,P/R 9,98,,
+90-3 - Level 2,MEDS,139,,
+90-3 - Level 2,CLEAN SUPPLY,154,,
+Not Placed,MEDS,Not Placed,,
+90-3 - Level 2,IOS PT TLT,101,,
+90-3 - Level 2,MECH,146,,
+90-3 - Level 2,VITALS ALCOVE,51,,
+90-3 - Level 2,NOURISH,54,,
+90-3 - Level 2,NURSE STATION,145,,
+90-3 - Level 2,PT TLT,76,,
+90-3 - Level 2,SCHEDULERS,153,,
+90-3 - Level 2,NURSE STATION,145,,
+90-3 - Level 2,EXAM,128,,
+90-3 - Level 2,EXAM,127,,
+90-3 - Level 2,TREATMENT / POS,207,,
+90-3 - Level 2,TREATMENT MED,206,,
+90-3 - Level 2,FUNDUS OPTOS OCT, OCT, OCT,541,CLINICAL,Exam Room
+90-3 - Level 2,PRACT. COORD.,94,,
+90-3 - Level 2,TEAM STATION,197,,
+90-3 - Level 2,TEAM STATION,203,,
+90-3 - Level 2,TEAM STATION,229,,
+90-3 - Level 2,GENERAL OFFICE SUPPLY,205,,
+90-3 - Level 2,RESEARCH LAB,163,,
+90-3 - Level 2,RESEARCH TEAM STATION,209,,
+90-3 - Level 3,SHELL SPACE,7474,,
+Not Placed,PREP CORRIDOR,Not Placed,,
+90-3 - Level 2,EXAM,127,,
+90-3 - Level 2,EXAM,125,,
+90-3 - Level 2,EXAM,125,,
+90-3 - Level 2,EXAM,125,,
+90-3 - Level 3,SOILED HOLDING,106,,
+90-3 - Level 3,IOL / PENT,149,,
+90-3 - Level 3,PA ROOM,149,,
+90-3 - Level 3,CRASH CART,22,,
+90-3 - Level 3,DICTATION,86,,
+90-3 - Level 3,WORKROOM,112,,
+90-3 - Level 3,FUNDUS OPTOS OCT,288,,
+90-3 - Level 3,MED / CLEAN,167,,
+90-3 - Level 3,TREATMENT,232,,
+90-3 - Level 3,TREATMENT,232,,
+90-3 - Level 3,VIS FIELD,87,,
+90-3 - Level 3,VIS FIELD,87,,
+90-3 - Level 3,MULTI-PURPOSE OFFICE,172,,
+90-3 - Level 3,SLIT LAMP OCT,172,,
+90-3 - Level 2,SUB WAIT,39,,
+90-3 -Level 1,FURNITURE STORAGE,225,,
+90-3 - Level 2,SUB WAIT,36,,
+90-3 - Level 2,CORRIDOR,99,,
+Not Placed,ALCOVE,Not Placed,,
+90-3 -Level 1,CORRIDOR,957,,
+90-3 -Level 1,CORRIDOR,187,,
+Not Placed,WC STORAGE,Not Placed,,
+Not Placed,PT TLT,Not Placed,,
+Not Placed,ALCOVE,Not Placed,,
+90-3 -Level 1,CORRIDOR,867,,
+90-3 -Level 1,ALCOVE,22,,
+90-3 - Level 2,QUIET / LACTATION,88,,
+90-3 -Level 1,CORRIDOR,Redundant Room,,
+90-3 - Level 2,MECH,39,SERV,Mechanical Room
+90-3 -Level 1,SEMI-RESTRICTED CORRIDOR,259,,
+90-3 - Level 2,CORRIDOR,212,,
+90-3 - Level 2,CORRIDOR,132,,
+90-3 - Level 3,MECH,61,,
+Not Placed,WHEELCHAIRS,Not Placed,,
+90-3 -Level 1,WHEELCHAIR,Redundant Room,NON-CLINICAL,Storage - General
+90-3 -Level 1,TEAM STATION,137,NON-CLINICAL,Shell Space
+90-3 -Level 1,CLEAN SUPPLY,144,,
+90-3 -Level 1,SOILED HOLDING,75,,
+90-3 -Level 1,EVS,59,,
+90-3 -Level 1,CONTROL,Redundant Room,,
+90-3 -Level 1,PT TLT,65,,
+90-3 -Level 1,STAFF TLT,63,,
+90-3 -Level 1,NOURISH,23,,
+90-3 -Level 1,MEDS,23,,
+90-3 -Level 1,PT TLT,57,,
+90-3 -Level 1,WC STORAGE,36,,
+90-3 -Level 1,PT TLT,47,,
+90-3 -Level 1,WC STORAGE,Redundant Room,,
+90-3 -Level 1,CORRIDOR,Redundant Room,,
